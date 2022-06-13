@@ -12,7 +12,7 @@
         </Grid.Background>
         <Label x:Name="labelBienvenue" Content="BIENVENUE" HorizontalAlignment="Left" Margin="84,287,0,0" VerticalAlignment="Top" Width="290" FontSize="48" FontFamily="Lucida Sans" Foreground="#FFD4D8EE" Height="70"/>
         <Button x:Name="btnInscrire" Content="S'INSCRIRE" HorizontalAlignment="Left" Margin="137,387,0,0" VerticalAlignment="Top" Width="184" Height="40" FontFamily="Microsoft Tai Le" Background="#FF39ACB9" Foreground="#FFE0E0E8" Click="btnInscrire_Click"/>
-        <Button x:Name="btnSeConnecter" Content="SE CONECTER" HorizontalAlignment="Left" Margin="1010,44,0,0" VerticalAlignment="Top" Width="120" Height="26" Background="#FF43B6C9" FontFamily="Microsoft New Tai Lue" Foreground="#FFF9F5F5" Click="btnSeConnecter_Click"/>
+        <Button x:Name="btnSeConnecter" Content="SE CONNECTER" HorizontalAlignment="Left" Margin="1010,44,0,0" VerticalAlignment="Top" Width="120" Height="26" Background="#FF43B6C9" FontFamily="Microsoft New Tai Lue" Foreground="#FFF9F5F5" Click="btnSeConnecter_Click"/>
         <Image HorizontalAlignment="Left" Height="50" Margin="35,35,0,0" VerticalAlignment="Top" Width="107" Source="/Nouveau_projet-removebg-preview.png"/>
         <Label x:Name="LabelApropos" Content="A propos" HorizontalAlignment="Left" Margin="892,33,0,0" VerticalAlignment="Top" Width="118" Foreground="#FFEDE2E2" FontSize="24" Height="54" FontFamily="Microsoft Tai Le" VerticalContentAlignment="Stretch"/>
     </Grid>
