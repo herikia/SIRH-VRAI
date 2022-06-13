@@ -35,7 +35,17 @@ namespace Interface_bienvenue
 
         private void btnInscrire_Click(object sender, RoutedEventArgs e)
         {
+            Test Cu = new Test();
+            Cu.Show();
+            this.Hide();
 
+        }
+
+        private void btnSeConnecter_Click(object sender, RoutedEventArgs e)
+        {
+            essaiConn Cu = new essaiConn();
+            Cu.Show();
+            this.Hide();
         }
     }
 }

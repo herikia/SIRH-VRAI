@@ -45,3 +45,7 @@ C:\Users\inclu\Desktop\PROJET SIRH\Interface_bienvenue\obj\Debug\Interface_bienv
 C:\Users\inclu\Desktop\PROJET SIRH\Interface_bienvenue\obj\Debug\Interface_bienvenue.csproj.CopyComplete
 C:\Users\inclu\Desktop\PROJET SIRH\Interface_bienvenue\obj\Debug\Interface_bienvenue.exe
 C:\Users\inclu\Desktop\PROJET SIRH\Interface_bienvenue\obj\Debug\Interface_bienvenue.pdb
+C:\Users\inclu\Desktop\PROJET SIRH\Interface_bienvenue\obj\Debug\Test.g.cs
+C:\Users\inclu\Desktop\PROJET SIRH\Interface_bienvenue\obj\Debug\Test.baml
+C:\Users\inclu\Desktop\PROJET SIRH\Interface_bienvenue\obj\Debug\essaiConn.g.cs
+C:\Users\inclu\Desktop\PROJET SIRH\Interface_bienvenue\obj\Debug\essaiConn.baml
