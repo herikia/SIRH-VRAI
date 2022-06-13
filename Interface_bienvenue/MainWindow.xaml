@@ -1,0 +1,19 @@
+﻿<Window x:Class="Interface_bienvenue.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Interface_bienvenue"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="1500" OpacityMask="#FFB5B6CF" Foreground="#FFB5B6CF" WindowStyle="ToolWindow">
+    <Grid Margin="0,-16,0,-16" Height="750" Width="1500">
+        <Grid.Background>
+            <ImageBrush ImageSource="/human-resources-hr-management-recruitment-employment-headhunting-concept-with-magnifier-wireframe-hand_127544-812.JPG"/>
+        </Grid.Background>
+        <Label x:Name="labelBienvenue" Content="BIENVENUE" HorizontalAlignment="Left" Margin="182,325,0,0" VerticalAlignment="Top" Width="290" FontSize="48" FontFamily="Lucida Sans" Foreground="#FFD4D8EE" Height="70"/>
+        <Button x:Name="btnInscrire" Content="S'INSCRIRE" HorizontalAlignment="Left" Margin="235,425,0,0" VerticalAlignment="Top" Width="184" Height="40" FontFamily="Microsoft Tai Le" Background="#FF39ACB9" Foreground="#FFE0E0E8" Click="btnInscrire_Click"/>
+        <Button x:Name="btnSeConnecter" Content="SE CONECTER" HorizontalAlignment="Left" Margin="1288,43,0,0" VerticalAlignment="Top" Width="120" Height="26" Background="#FF43B6C9" FontFamily="Microsoft New Tai Lue" Foreground="#FFF9F5F5"/>
+        <Image HorizontalAlignment="Left" Height="50" Margin="35,35,0,0" VerticalAlignment="Top" Width="107" Source="/Nouveau_projet-removebg-preview.png"/>
+        <Label x:Name="LabelApropos" Content="A propos" HorizontalAlignment="Left" Margin="1126,35,0,0" VerticalAlignment="Top" Width="118" Foreground="#FFEDE2E2" FontSize="24" Height="54" FontFamily="Microsoft Tai Le" VerticalContentAlignment="Stretch"/>
+    </Grid>
+</Window>
